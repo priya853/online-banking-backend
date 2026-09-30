@@ -471,7 +471,12 @@ Swagger UI is available at:
 
 ```text
 http://localhost:8080/swagger-ui/index.html
+
+
 ```
+### Swagger UI
+
+![Swagger UI](screenshots/swagger-ui.png)
 
 Swagger provides interactive documentation for the REST APIs.
 
