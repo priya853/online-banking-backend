@@ -488,6 +488,10 @@ JWT authentication can be configured using the **Authorize** button in Swagger U
 
 The APIs were tested using **Postman** and **Swagger UI**.
 
+### Postman Transfer API
+
+![Postman Transfer API](screenshots/postman-transfer.png)
+
 Testing includes:
 
 - User registration
